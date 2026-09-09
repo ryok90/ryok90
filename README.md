@@ -2,12 +2,14 @@
 
 # Rodrigo Yokota
 
-**Platform Engineer @ [Zephyr Cloud](https://zephyr-cloud.io)** · Module Federation whisperer · full-stack since 2018
+**Platform Engineer @ [Zephyr Cloud](https://zephyr-cloud.io) · [The AI Platform](https://theaiplatform.app)**
 
-[![Website](https://img.shields.io/badge/yokota.dev-00D9C0?style=for-the-badge&logo=nextdotjs&logoColor=121212&labelColor=121212)](https://yokota.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9C0?style=for-the-badge&logoColor=121212&labelColor=121212)](https://www.linkedin.com/in/rodrigo-yokota/)
-[![Email](https://img.shields.io/badge/rodrigo@yokota.dev-00D9C0?style=for-the-badge&logo=maildotru&logoColor=121212&labelColor=121212)](mailto:rodrigo@yokota.dev)
-[![Résumé](https://img.shields.io/badge/Résumé-00D9C0?style=for-the-badge&logo=readdotcv&logoColor=121212&labelColor=121212)](https://drive.google.com/uc?export=download&id=1Q_JRCt0mZmhP7ieBWEMdeMBt8gAwfTA8)
+Module Federation whisperer · full-stack since 2018
+
+[![Website](https://img.shields.io/badge/Website-00D9C0?style=for-the-badge&logo=nextdotjs&logoColor=121212&labelColor=121212)](https://yokota.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9C0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNSI%2BPHBhdGggZmlsbD0iIzEyMTIxMiIgZD0iTTIwLjQ0OTEgMjEuMzM3M0gxNi44OTMxVjE1Ljc2ODRDMTYuODkzMSAxNC40NDA1IDE2Ljg2OTQgMTIuNzMxIDE1LjA0MzYgMTIuNzMxQzEzLjE5MTUgMTIuNzMxIDEyLjkwODEgMTQuMTc3OCAxMi45MDgxIDE1LjY3MTdWMjEuMzM3SDkuMzUyMDRWOS44ODUwMkgxMi43NjU4VjExLjQ1SDEyLjgxMzZDMTMuMTU1MyAxMC44NjU5IDEzLjY0OSAxMC4zODU0IDE0LjI0MjEgMTAuMDU5NkMxNC44MzUyIDkuNzMzODQgMTUuNTA1NiA5LjU3NTA2IDE2LjE4MTkgOS42MDAxNkMxOS43ODYxIDkuNjAwMTYgMjAuNDUwNiAxMS45NzA5IDIwLjQ1MDYgMTUuMDU1TDIwLjQ0OTEgMjEuMzM3M1pNNS4zMzk2MyA4LjMxOTYxQzQuOTMxNDggOC4zMTk2OSA0LjUzMjQ4IDguMTk4NzMgNC4xOTMwOCA3Ljk3MjA0QzMuODUzNjggNy43NDUzNCAzLjU4OTEyIDcuNDIzMSAzLjQzMjg3IDcuMDQ2MDVDMy4yNzY2MSA2LjY2OSAzLjIzNTY3IDYuMjU0MDggMy4zMTUyMiA1Ljg1Mzc2QzMuMzk0NzcgNS40NTM0NSAzLjU5MTI1IDUuMDg1NzEgMy44Nzk4IDQuNzk3MDVDNC4xNjgzNSA0LjUwODQgNC41MzYwMiA0LjMxMTc5IDQuOTM2MyA0LjIzMjFDNS4zMzY1OSA0LjE1MjQgNS43NTE1MiA0LjE5MzE5IDYuMTI4NjMgNC4zNDkzMUM2LjUwNTc0IDQuNTA1NDQgNi44MjgwOCA0Ljc2OTg4IDcuMDU0ODkgNS4xMDkyQzcuMjgxNzEgNS40NDg1MiA3LjQwMjgxIDUuODQ3NDggNy40MDI4OCA2LjI1NTYyQzcuNDAyOTMgNi41MjY2MiA3LjM0OTYgNi43OTQ5OCA3LjI0NTk0IDcuMDQ1MzZDNy4xNDIyOCA3LjI5NTc1IDYuOTkwMzEgNy41MjMyNyA2Ljc5ODcyIDcuNzE0OTNDNi42MDcxMyA3LjkwNjU5IDYuMzc5NjcgOC4wNTg2NCA2LjEyOTMxIDguMTYyMzlDNS44Nzg5NiA4LjI2NjE0IDUuNjEwNjMgOC4zMTk1NiA1LjMzOTYzIDguMzE5NjFaTTcuMTE3NjUgMjEuMzM3M0gzLjU1NzlWOS44ODUwMkg3LjExNzY1VjIxLjMzNzNaTTIyLjIyMiAwLjg5MDA2MkgxLjc3MDk5QzEuMzA2ODEgMC44ODQ4MjQgMC44NTk1MzYgMS4wNjQwOCAwLjUyNzQ1OCAxLjM4ODQ1QzAuMTk1MzgxIDEuNzEyODIgMC4wMDU2NjUwNiAyLjE1NTc2IDAgMi42MTk5M1YyMy4xNTU3QzAuMDA1NDcxMTYgMjMuNjIwMSAwLjE5NTA2NSAyNC4wNjM0IDAuNTI3MTMyIDI0LjM4ODFDMC44NTkxOTggMjQuNzEyOCAxLjMwNjU4IDI0Ljg5MjQgMS43NzA5OSAyNC44ODc1SDIyLjIyMkMyMi42ODczIDI0Ljg5MzMgMjMuMTM1OSAyNC43MTQyIDIzLjQ2OTMgMjQuMzg5NUMyMy44MDI3IDI0LjA2NDggMjMuOTkzNiAyMy42MjExIDI0IDIzLjE1NTdWMi42MTg0NUMyMy45OTM0IDIuMTUzMzYgMjMuODAyNCAxLjcwOTkyIDIzLjQ2OSAxLjM4NTU2QzIzLjEzNTYgMS4wNjEyIDIyLjY4NzEgMC44ODI0NDcgMjIuMjIyIDAuODg4NTgxIi8%2BPC9zdmc%2B&logoColor=121212&labelColor=121212)](https://www.linkedin.com/in/rodrigo-yokota/)
+[![Email](https://img.shields.io/badge/Email-00D9C0?style=for-the-badge&logo=maildotru&logoColor=121212&labelColor=121212)](mailto:rodrigo@yokota.dev)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-00D9C0?style=for-the-badge&logo=readdotcv&logoColor=121212&labelColor=121212)](https://drive.google.com/uc?export=download&id=1Q_JRCt0mZmhP7ieBWEMdeMBt8gAwfTA8)
 
 </div>
 
@@ -17,46 +19,16 @@
 
 ```ts
 const rodrigo = {
-  role: 'Platform Engineer @ Zephyr Cloud',
+  role: 'Platform Engineer @ Zephyr Cloud / The AI Platform',
   from: 'Maringá, PR 🇧🇷',
   since: 2018,
-  doing: ['module federation', 'build tooling', 'cloud deploy pipelines', 'DX that does not hurt'],
+  doing: ['module federation', 'build tooling', 'cloud deploy pipelines', 'agent platforms'],
   stack: ['TypeScript', 'Node.js', 'React', 'Rspack', 'Webpack', 'Vite', 'Nx', 'AWS'],
   alsoWrites: ['Swift', 'Python', 'PHP', 'Dart', 'a suspicious amount of YAML'],
+  certified: 'AWS Cloud Practitioner',
   motto: 'Ship it, then make it boring.',
 } as const;
 ```
-
-### What I actually do all day
-
-Micro-frontends are easy to draw and hard to ship. My job is the arrow nobody likes.
-
-```mermaid
-flowchart TD
-  A["Remote app"] -->|build| B["Rspack / Webpack / Vite"]
-  B -->|Module Federation| C["Zephyr Cloud"]
-  C -->|versioned deploy| D["Edge"]
-  D -->|resolved at runtime| E["Host shell"]
-  E -.->|"something broke"| F(("me"))
-  F -.->|"fix the plugin, not the symptom"| B
-```
-
-- Build-tool plugins and integrations across **webpack, Rspack, Vite, Rollup, Nx, Next.js, Astro, Tauri**
-- Module Federation consulting: turning "why is React loaded twice" into a Monday-morning answer
-- Reference examples, repros, and the unglamorous issue-replication repos that make bugs fixable
-
-### Track record
-
-| When | Where | What |
-| --- | --- | --- |
-| 2023 → now | **Valor Software / Zephyr Cloud** | Zephyr platform features, Module Federation consulting, standards & architecture |
-| 2023 | **Vaullti** (Seattle) | Digital-twin protection service: AWS CDK, event-driven workflows, cost-first design |
-| 2021 → 2023 | **Groundbreaker** (Chicago) | Fund administration: React → federated micro-frontends, Go → Node.js serverless |
-| 2020 → 2021 | **Gazin Tech** | E-commerce apps, new mobile app + APIs, checkout as a micro-frontend |
-| 2019 → 2020 | **Vivaworks** | Corporate suite: PHP/Zend, Flutter app, the module everyone was afraid of |
-| 2015 → 2019 | **Full House** | Ran ops & finance. Automated my own job with VBA. That's how this started. |
-
-<sub>AWS Certified Cloud Practitioner · Computer Science @ UEM (unfinished, still curious)</sub>
 
 ### Toolbox
 
@@ -72,7 +44,7 @@ flowchart TD
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=121212)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
@@ -89,17 +61,7 @@ flowchart TD
 | [**tapple**](https://github.com/ryok90/tapple) | The board game Tapple, dragged onto the web |
 | [**zmk-config**](https://github.com/ryok90/zmk-config) | 36-key Corne layout. Yes, I have opinions about layers |
 
-### Fun facts
-
-- I spent four years running events ops before writing code professionally. Spreadsheets radicalized me.
-- If a bug can't be reproduced in a clean repo, it isn't a bug yet — hence the small pile of `*-issue-replication` repos.
-- I'll take a boring solution over a clever one, right up until the boring one gets slow.
-
 <div align="center">
-
-[![Followers](https://img.shields.io/github/followers/ryok90?style=for-the-badge&color=00D9C0&labelColor=121212&logo=github&logoColor=00D9C0)](https://github.com/ryok90?tab=followers)
-[![Stars](https://img.shields.io/github/stars/ryok90?affiliations=OWNER&style=for-the-badge&color=00D9C0&labelColor=121212&logo=github&logoColor=00D9C0)](https://github.com/ryok90?tab=repositories&q=&type=source&sort=stargazers)
-[![Profile views](https://komarev.com/ghpvc/?username=ryok90&style=for-the-badge&color=00D9C0&label=PROFILE+VIEWS)](https://github.com/ryok90)
 
 <sub>Want to talk federated frontends, build pipelines, or keyboards? <a href="mailto:rodrigo@yokota.dev">rodrigo@yokota.dev</a></sub>
 
