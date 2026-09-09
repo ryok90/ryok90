@@ -32,13 +32,13 @@ const rodrigo = {
 Micro-frontends are easy to draw and hard to ship. My job is the arrow nobody likes.
 
 ```mermaid
-flowchart LR
-  A[Remote app] -->|build| B[Rspack / Webpack / Vite]
-  B -->|Module Federation| C[Zephyr Cloud]
-  C -->|versioned deploy| D[Edge]
-  D -->|resolved at runtime| E[Host shell]
-  E -.->|something broke| F((me))
-  F -.->|fix the plugin, not the symptom| B
+flowchart TD
+  A["Remote app"] -->|build| B["Rspack / Webpack / Vite"]
+  B -->|Module Federation| C["Zephyr Cloud"]
+  C -->|versioned deploy| D["Edge"]
+  D -->|resolved at runtime| E["Host shell"]
+  E -.->|"something broke"| F(("me"))
+  F -.->|"fix the plugin, not the symptom"| B
 ```
 
 - Build-tool plugins and integrations across **webpack, Rspack, Vite, Rollup, Nx, Next.js, Astro, Tauri**
