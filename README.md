@@ -56,9 +56,7 @@ const rodrigo = {
 | Project | The pitch |
 | --- | --- |
 | [**guaranate**](https://github.com/ryok90/guaranate) | Native macOS keep-awake CLI in Swift. Talks to IOKit directly, does **not** wrap `caffeinate`. Named after guaraná, because Brazil solves caffeine differently. Docs at [guaranate.dev](https://guaranate.dev) · `brew install ryok90/guaranate/guaranate` |
-| [**nextjs-mf-examples**](https://github.com/ryok90/nextjs-mf-examples) | Next.js ↔ Module Federation, working, with receipts |
 | [**yokota.dev**](https://github.com/ryok90/yokota.dev) | My corner of the internet, live at [yokota.dev](https://yokota.dev). Next.js, teal, opinionated |
-| [**tapple**](https://github.com/ryok90/tapple) | The board game Tapple, dragged onto the web |
 | [**zmk-config**](https://github.com/ryok90/zmk-config) | 36-key Corne layout. Yes, I have opinions about layers |
 
 <div align="center">
